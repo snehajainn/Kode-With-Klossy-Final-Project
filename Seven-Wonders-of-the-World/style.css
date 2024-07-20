@@ -1,0 +1,128 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #EDE1D2;
+}
+h1{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center; 
+}
+h5{
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px; 
+  text-align: center; 
+}
+
+.map {
+  display: flex;
+  justify-content: align-center;
+  height: 800px;
+  width: 500px;
+}
+
+/* Europe */
+.pinEurope {
+  position: relative;
+  top: -720px;
+  right: -760px;
+
+}
+
+.pinEurope img {
+  height: 100px;
+  width: 175px;
+}
+
+
+/* South America */
+.pinSouth {
+  position: relative;
+  top: -450px;
+  left: 320px;
+
+}
+
+.pinSouth img {
+  height: 100px;
+  width: 175px;
+}
+
+/* Oceania */
+.pinOceania {
+  position: relative;
+  top: -505px;
+  left: 1205px;
+}
+
+.pinOceania img {
+  height: 100px;
+  width: 175px;
+}
+
+/* Asia */
+.pinAsia {
+  position: relative;
+  top: -970px;
+  right: -990px;
+}
+
+.pinAsia img {
+  height: 100px;
+  width: 175px;
+ 
+}
+
+/* Africa */
+.pinAfrica {
+  position: relative;
+  top: -900px;
+  right: -700px;
+
+}
+
+.pinAfrica img {
+  height: 100px;
+  width: 175px;
+  
+}
+
+
+
+.pinAntarctica {
+  position: relative;
+  top: -630px;
+  right: -800px;
+
+}
+
+.pinAntarctica img {
+  height: 100px;
+  width: 175px;
+  
+}
+
+/* North  */
+.pinNorth {
+  position: relative;
+  top: -1300px;
+  right: -150px;
+}
+
+.pinNorth img {
+  height: 100px;
+  width: 175px;
+
+}
+
+
+

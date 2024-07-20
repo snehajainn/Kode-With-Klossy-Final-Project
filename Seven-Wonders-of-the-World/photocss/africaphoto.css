@@ -1,0 +1,32 @@
+body {
+  background-color: #EDE1D2;
+}
+h2{
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+      font-weight: 600;
+      font-style: normal;
+      font-size: 40px;
+      text-align: center; 
+  border-radius: 15px;
+  background-color: #C46210;
+}
+img{
+  object-fit: cover;
+  border: solid 5px #C46210;
+  border-radius: 30px;
+  margin: 10px;
+  width: 250px;
+  height: 350px;
+ 
+}
+
+button{
+  border-radius: 15px;
+  background-color: #C46210;
+  font-family: "Lora", serif;
+  color: black; 
+  font-size: 16px;
+}
+
+

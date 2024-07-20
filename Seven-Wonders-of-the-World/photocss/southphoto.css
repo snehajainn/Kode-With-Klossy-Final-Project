@@ -1,0 +1,31 @@
+body {
+  background-color: #EDE1D2;
+}
+h2{
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+      font-weight: 600;
+      font-style: normal;
+      font-size: 40px;
+      text-align: center; 
+  border-radius: 15px;
+  background-color: #806044 ;
+}
+img{
+  object-fit: cover;
+  border: solid #806044 5px;
+  border-radius: 30px;
+  margin: 10px;
+  width: 250px;
+  height: 350px;
+   justify-content: center; 
+}
+button{
+  display: flex;
+  justify-content: center;
+  background-color: #806044;
+  border-radius: 15px;
+  font-family: "Lora", serif;
+  font-color: black; 
+  font-size: 16px;
+}

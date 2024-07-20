@@ -1,0 +1,77 @@
+body {
+  background-color: #EDE1D2;
+}
+h2{
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+      font-weight: 600;
+      font-style: normal;
+      font-size: 50px;
+      text-align: center; 
+      border-radius: 15px;
+      background-color:#6c2f19; 
+}
+h3{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 25px; 
+}
+h5{
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px; 
+  text-align: center; 
+}
+.linksTravel {
+  display: flex;
+  flex-direction: column; 
+  gap:20px;
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px; 
+
+}
+.linksEnvironment{
+display: flex;
+flex-direction: column; 
+gap:20px;
+font-family: "Lora", serif;
+font-optical-sizing: auto;
+font-weight: 600;
+font-style: normal;
+font-size: 16px; 
+}
+
+.linksHistory{
+  display: flex;
+  flex-direction: column; 
+  gap:20px;
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px; 
+}
+a{
+  color:#643118;
+}
+
+.photobutton5{
+  display: flex;
+  justify-content: center;
+  
+}
+button{
+  background-color: #cc8366;
+  border-radius: 15px;
+  font-family: "Lora", serif;
+  font-color: black; 
+  font-size: 16px;
+
+}
